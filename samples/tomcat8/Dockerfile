@@ -1,3 +1,4 @@
+# sample dockerfile: not working!
 FROM java:8-jre
 
 ENV CATALINA_HOME /usr/local/tomcat
