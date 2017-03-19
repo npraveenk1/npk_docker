@@ -12,4 +12,4 @@ RUN  cd /usr/local/ \
 
 EXPOSE 8080
 
-CMD ["/usr/local/tomcat/catalina.sh", "run"]
+CMD ["/usr/local/tomcat/bin/catalina.sh", "run"]
